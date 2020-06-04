@@ -3,6 +3,7 @@ Allergenic
 Alphabetical
 Amazing
 Anaerobic
+Angry
 Annoyed
 Anonymous
 Baked
@@ -11,10 +12,12 @@ Barbaric
 Barking
 Bent
 Big-Balled
+Bitchy
 Bleached
 Blind
 Bloated
 Blue
+Bossy
 Brave
 Broken
 Burnt
@@ -28,6 +31,7 @@ Crispy
 Crooked
 Crunched
 Crushed
+Crusty
 Curly
 Cute
 Cylindrical
@@ -62,6 +66,7 @@ Gassy
 Ghastly
 Giant
 Glowing
+Greasy
 Green
 Greivous
 Hairy
@@ -79,6 +84,8 @@ Iridescent
 Jittery
 Jovial
 Juicy
+Kinky
+Killable
 Lame
 Lamenting
 Loud
@@ -96,6 +103,7 @@ Nescient
 Neutral
 Nuclear
 Obese
+Oily
 Orange
 Outlandish
 Pink
@@ -136,6 +144,7 @@ Stupid
 Swift
 Tenacious
 Thicc
+Thick
 Tight
 Toxic
 Tubular
@@ -146,5 +155,9 @@ Whistling
 Windy
 Wobbly
 Yapping
+Yawning
 Yellow
 Yodelling
+Zapping
+Zipping
+Zooming
