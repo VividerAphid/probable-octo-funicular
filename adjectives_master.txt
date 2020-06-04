@@ -1,9 +1,13 @@
 Acidic
 Allergenic
 Alphabetical
+Amazing
+Anaerobic
 Annoyed
+Anonymous
 Baked
 Bald
+Barbaric
 Barking
 Bent
 Big-Balled
@@ -71,10 +75,14 @@ Infected
 Intoxicated
 Invisible
 Iridescent
+Jittery
 Jovial
 Juicy
+Lame
+Lamenting
 Loud
 Lumpy
+Luscious
 Magenta
 Moist
 Moldy
@@ -88,6 +96,7 @@ Neutral
 Nuclear
 Obese
 Orange
+Outlandish
 Pink
 Plump
 Positive
@@ -132,5 +141,9 @@ Tubular
 Undulating
 Warped
 Whimsical
+Whistling
 Windy
+Wobbly
+Yapping
 Yellow
+Yodelling
