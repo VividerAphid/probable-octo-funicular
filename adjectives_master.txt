@@ -10,6 +10,7 @@ Baked
 Bald
 Barbaric
 Barking
+Beached
 Bent
 Besettled
 Big-Balled
@@ -60,7 +61,10 @@ Feeble
 Fizzy
 Flammable
 Flappy
+Floating
 Flooded
+Floury
+Flowery
 Fluffy
 Fluorescent
 Flying
@@ -198,6 +202,7 @@ Windy
 Wobbly
 Yapping
 Yawning
+Yelling
 Yellow
 Yodelling
 Zapping
