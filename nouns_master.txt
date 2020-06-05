@@ -27,6 +27,7 @@ Bullet
 Button
 Cactus
 Car
+Carnivore
 Chair
 Cherry
 Chickpea
@@ -55,7 +56,9 @@ Fish
 Flower
 Foot
 Fork
+Goldfish
 Gums
+Guppy
 Guts
 Hammer
 Hatchet
@@ -72,6 +75,7 @@ Lamb
 LightBulb
 Liver
 Lung
+Megladon
 Mountain
 Mower
 Mug
@@ -95,6 +99,7 @@ Retina
 Rock
 Rug
 Screw
+Shark
 Shirt
 Shoe
 Shovel
