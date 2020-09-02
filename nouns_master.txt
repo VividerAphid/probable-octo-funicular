@@ -37,9 +37,12 @@ Crustacean
 Cucumber
 Cup
 Cupcake
+Damnation
 Demon
 Desert
 Desk
+Destruction
+Detrius
 Dinosaur
 Dodecagon
 Donkey
@@ -60,6 +63,7 @@ Goldfish
 Gums
 Guppy
 Guts
+Hair
 Hammer
 Hatchet
 Head
